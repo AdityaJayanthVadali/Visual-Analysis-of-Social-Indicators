@@ -71,7 +71,7 @@ The dataset includes 12 columns across 128 countries:
 
 ### 2. HDI Choropleth by Country
 
-![HDI Map](extracted_images/Final Paper (1)_page1_img1.jpeg)
+![HDI Map](Images/HDI.png)
 
 - European countries show the highest HDI.
 - African nations show lower HDI and GINI.
@@ -80,7 +80,7 @@ The dataset includes 12 columns across 128 countries:
 
 ### 3. GINI Index vs Health Coverage
 
-![GINI vs Coverage](extracted_images/Final Paper (1)_page1_img2.png)
+![GINI vs Coverage](Images/GINI.png)
 
 - Health coverage drops slightly as inequality increases (for GINI < 50).
 
@@ -88,7 +88,7 @@ The dataset includes 12 columns across 128 countries:
 
 ### 4. Trust vs Trust: Government & News Media
 
-![Scatterplot: Trust](extracted_images/Final Paper (1)_page2_img1.png)
+![Scatterplot: Trust](Images/Trust.png)
 
 - Trust in news and government are highly correlated.
 - Countries like China, Pakistan show high trust; U.S., Germany show lower trust.
@@ -97,7 +97,7 @@ The dataset includes 12 columns across 128 countries:
 
 ### 5. Press Freedom by Country
 
-![Press Freedom](extracted_images/Final Paper (1)_page2_img2.png)
+![Press Freedom](Images/Press.png)
 
 - Oceania and Northern Europe lead with high press freedom.
 - Asia has the lowest regional average.
@@ -106,7 +106,7 @@ The dataset includes 12 columns across 128 countries:
 
 ### 6. Corruption Perception by Country
 
-![Corruption](extracted_images/Final Paper (1)_page2_img3.png)
+![Corruption](Images/corruption.png)
 
 - New Zealand has highest CPI (~88).
 - South Sudan ranks lowest (~12).
@@ -116,7 +116,7 @@ The dataset includes 12 columns across 128 countries:
 
 ### 7. Income Inequality vs Populism
 
-![GINI vs Populism](extracted_images/Final Paper (1)_page2_img4.jpeg)
+![GINI vs Populism](Images/populism.png)
 
 - Weak positive correlation; most countries cluster in the mid-range.
 
