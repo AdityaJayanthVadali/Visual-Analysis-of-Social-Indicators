@@ -65,7 +65,7 @@ The dataset includes 12 columns across 128 countries:
 
 ### 1. Correlation Heatmap
 
-![Correlation Heatmap](extracted_images/Visual Analytics Project (1)_page4_img1.jpeg)
+![Correlation Heatmap](Images/heatmap.png)
 
 ---
 
